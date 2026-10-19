@@ -1,0 +1,54 @@
+@use "variables" as *;
+@mixin styles {
+    .scroll-to-top {
+        position: fixed;
+        bottom: 30px;
+        right: 30px;
+        z-index: 99;
+        width: 50px;
+        height: 50px;
+        border: none;
+        outline: none;
+        background-color: $color-gold; /* Колір кнопки */
+        color: white; /* Колір стрілочки */
+        cursor: pointer;
+        padding: 10px;
+        border-radius: 50%; /* Робимо кнопку круглою */
+        font-size: 18px;
+        transition:
+            opacity 0.3s ease,
+            background-color 0.3s ease,
+            transform 0.2s ease,
+            box-shadow 0.3s ease;
+        opacity: 0; /* Спочатку кнопка прозора */
+        pointer-events: none; /* Щоб кнопка не клікалася, коли вона схована */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0px 1px 5px 1px rgba(22, 22, 22, 0.6);
+        animation: pulse-border 2s infinite;
+    }
+
+    /* Ефект при наведенні курсору */
+    .scroll-to-top:hover {
+        background-color: $color-gold_hover;
+        transform: scale(1.08);
+    }
+
+    /* Клас, який ми будемо додавати за допомогою JS */
+    .scroll-to-top.show {
+        opacity: 1;
+        pointer-events: auto; /* Повертаємо можливість кліку */
+    }
+    @keyframes pulse-border {
+        0% {
+            box-shadow: 0 0 0 0 rgba(255, 174, 0, 0.8); // Замініть на ваш колір (наприклад, $color-main)
+        }
+        70% {
+            box-shadow: 0 0 0 25px rgba(0, 123, 255, 0); // Радіус розширення країв (15px)
+        }
+        100% {
+            box-shadow: 0 0 0 0 rgba(0, 123, 255, 0);
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "annonounce": {
+        "current": [
+            {
+                "title": "Прийом студентів на 2026 - 2027р.",
+                "url": "/assets/documents/admission/annonce/Прийом студентів 2026-2027 р..pdf"
+            }
+        ]
+    },
+    "rules": {
+        "current": [
+            {"title": "Правила прийому (PDF)", "url": "/assets/documents/admission/rules/Правила прийому 2026.pdf"}
+        ]
+    },
+
+    "polozhennya": {
+        "current": [
+            {
+                "title": "Положення про приймальну комісію (PDF)",
+                "url": "/assets/documents/admission/polozhennya/Положення про приймальну комісію 2026.pdf"
+            },
+            {
+                "title": "Положення про апеляційну комісію (PDF)",
+                "url": "/assets/documents/admission/polozhennya/Положення про апеляційну комісію 2026.pdf"
+            }
+        ]
+    },
+
+    "submission": {
+        "current": [
+            {
+                "title": "Порядок подання та розгляду заяв в електронній формі.(PDF)",
+                "url": "/assets/documents/admission/submission/Порядок подання та розгляду заяв в електронній формі.pdf"
+            }
+        ]
+    },
+
+    "requirements": {
+        "current": [
+            {
+                "title": "Вимоги з фахових іспитів для вступників (PDF)",
+                "url": "/assets/documents/admission/requirements/Вимоги з фахових іспитів.pdf"
+            },
+            {
+                "title": "Вимоги до мотиваційного листа (PDF)",
+                "url": "/assets/documents/admission/requirements/Вимоги до мотиваційного листа.pdf"
+            },
+            {
+                "title": "Перелік документів для вступу (PDF)",
+                "url": "/assets/documents/admission/requirements/Перелік документів на вступ.pdf"
+            }
+        ],
+        "video": [
+            {
+                "title": "Реєстрація електронних кабінетів та подання заяв до закладів ФПО на основі 9 класів",
+                "url": "https://youtu.be/VfvfuM2BVsA?si=G1BvS2z0SfOjO-hY"
+            },
+            {
+                "title": "Реєстрація електронних кабінетів та подання заяв до закладів ФПО на основі ПЗСО та КР",
+                "url": "https://youtu.be/jjjLG0PA0IM?si=vQeBk-uv704ktPjt"
+            }
+        ]
+    },
+
+    "schedule": {
+        "current": [
+            {
+                "title": "Розклад консультацій для абітурієнтів.(PDF)",
+                "url": "/assets/documents/admission/schedule/Розклад консультацій.pdf"
+            },
+            {
+                "title": "Розклад вступних випробувань.(PDF)",
+                "url": "/assets/documents/admission/schedule/Розклад вступних випробувань.pdf"
+            }
+        ]
+    },
+
+    "results": {
+        "current": [{"title": "Рейтинговий список.(PDF)", "url": "/assets/documents/admission/results"}]
+    },
+
+    "rating": {
+        "current": [
+            {
+                "title": "Список рекомендованих до зарахування вступників з базовою та повною загальною середньою освітою у 2025 році.(PDF)",
+                "url": "/assets/documents/admission/rating"
+            }
+        ]
+    },
+
+    "orders": {
+        "current": [
+            {
+                "title": "Наказ про зарахування на навчання до  КЗ ЛОР ЛМФК ім.С. П. Людкевича у 2025 році.(PDF)",
+                "url": "/assets/documents/admission/orders"
+            }
+        ]
+    }
+}

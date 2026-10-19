@@ -1,0 +1,98 @@
+{
+    "monitoring": {
+        "sections": [
+            {
+                "section_title": "Положення",
+                "items": [{"title": "Положення про внутрішній моніторинг", "url": "/docs/quality/polozhennya.pdf"}]
+            },
+            {
+                "section_title": "Якість освіти і успішність",
+                "items": [
+                    {"title": "Моніторинг успішності за I семестр", "url": "/docs/quality/zvit_1.pdf"},
+                    {"title": "Порівняльний аналіз успішності (2024-2026)", "url": "docs/monitoring/analysis.pdf"}
+                ]
+            }
+        ]
+    },
+    "survey": {
+        "sections": [
+            {
+                "section_title": "Положення",
+                "items": [
+                    {
+                        "title": "Положення про анкетування учасників освітнього процесу",
+                        "url": "/docs/quality/polozhennya.pdf"
+                    }
+                ]
+            },
+            {
+                "section_title": "Опитування",
+                "items": [
+                    {
+                        "title": "Опитування здобувачів фахової передвищої освіти щодо якості освітнього процесу та освітньої діяльності 2025-2026 н.р.",
+                        "url": "/docs/quality/polozhennya.pdf"
+                    },
+                    {
+                        "title": "Анкета оцінювання  здобувачами освіти якості проведення вступної кампанії та системи адаптації  до входження в освітнє середовище",
+                        "url": "/docs/quality/polozhennya.pdf"
+                    }
+                ]
+            },
+            {
+                "section_title": "Результати опитування",
+                "items": [
+                    {
+                        "title": "Результати опитування здобувачів фахової передвищої освіти щодо якості освітнього процесу та освітньої діяльності 2025-2026 н.р.",
+                        "url": "/docs/quality/zvit_1.pdf"
+                    },
+                    {
+                        "title": "Звіт про результати проведеного анкетування здобувачів освіти «Про дотримання академічної доброчесності», що проводилося  у ІІ семестрі 2025-2026 н.р.",
+                        "url": "/docs/quality/zvit_1.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    "integrity": {
+        "sections": [
+            {
+                "section_title": "Нормативні документи",
+                "items": [{"title": "Кодекс академічної доброчесності", "url": "/docs/quality/code.pdf"}]
+            }
+        ]
+    },
+    "stakeholders": {
+        "sections": [
+            {
+                "section_title": "Документи стейкхолдерів",
+                "items": [
+                    {"title": "Положення про стейкхолдерів", "url": "/docs/quality/code.pdf"},
+                    {"title": "План заходів співпраці з роботодавцями", "url": "/docs/quality/code.pdf"},
+                    {"title": "Відгуки роботодавців про випускників", "url": "/docs/quality/code.pdf"},
+                    {"title": "Опитування", "url": "/docs/quality/code.pdf"}
+                ]
+            }
+        ]
+    },
+    "qualification": {
+        "sections": [
+            {
+                "section_title": "Тут будуть документи акредитації",
+                "items": [{"title": "Акредитація опитування", "url": "/docs/quality/code.pdf"}]
+            }
+        ]
+    },
+    "atestation": {
+        "sections": [
+            {
+                "section_title": "Положення",
+                "items": [
+                    {
+                        "title": "Положення про атестацію викладачів",
+                        "url": "/assets/documents/quality/atestation/document.pdf"
+                    }
+                ]
+            }
+        ]
+    }
+}

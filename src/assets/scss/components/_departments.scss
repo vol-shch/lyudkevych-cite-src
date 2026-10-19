@@ -1,0 +1,161 @@
+@use "variables" as *;
+
+@mixin styles {
+    .departments {
+        padding-top: 1.875rem;
+        padding-bottom: 1.875rem;
+        display: flex;
+        gap: 20px;
+        justify-content: space-between;
+    }
+    .aside {
+        max-width: 20rem;
+        max-height: 43.75rem;
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgb(0 0 0 / 62%);
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+        background-color: $color-bg-card;
+        position: sticky;
+        top: 20px;
+        overflow: auto;
+        &::-webkit-scrollbar {
+            width: 10px;
+        }
+        &::-webkit-scrollbar-track {
+            background: $color-bg-card;
+        }
+
+        &::-webkit-scrollbar-thumb {
+            background-color: $color-gold;
+            border-radius: 20px;
+            border: 1px solid $color-gold_hover;
+        }
+    }
+    .menu-aside {
+        &__list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            font-size: 18px;
+        }
+
+        &__link {
+            display: block;
+            border-radius: 5px;
+            border-bottom: 1px solid $color-gold;
+            padding: 5px;
+            transition: all 0.3s ease;
+            font-weight: 500;
+            &:hover {
+                background-color: $color-gold_hover;
+            }
+        }
+    }
+    .filling {
+        max-width: 62.5rem;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        &__content {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            scroll-margin-top: 20px;
+        }
+
+        &__top {
+            display: flex;
+            justify-content: space-between;
+            &-more {
+                flex-direction: column;
+                gap: 20px;
+            }
+        }
+
+        &__img {
+            width: 100%;
+            border-radius: 10px;
+            overflow: hidden;
+            img {
+                width: 100%;
+            }
+        }
+        &__description:not(:last-child) {
+            margin-bottom: 10px;
+        }
+    }
+    .chef-card {
+        width: 15.625rem;
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgb(0 0 0 / 62%);
+        background-color: $card-color-chef;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        float: left;
+        margin: 0 30px 30px 0;
+
+        &__title {
+            font-size: 20px;
+            font-weight: 500;
+        }
+
+        &__img {
+            border-radius: 10px;
+            width: 150px;
+            overflow: hidden;
+            img {
+                width: 100%;
+            }
+        }
+
+        &__name {
+            text-align: center;
+            font-weight: 500;
+        }
+
+        &__regals {
+            text-align: center;
+        }
+    }
+    @media (max-width: 767.98px) {
+        .departments {
+            flex-direction: column;
+        }
+        .aside {
+            position: static;
+            max-width: 100%;
+            top: 0;
+            align-items: center;
+        }
+        .menu-aside {
+            &__list {
+                align-items: center;
+            }
+            &__item {
+                width: 100%;
+                text-align: center;
+            }
+        }
+        .filling {
+            &__title {
+                font-size: 1.625rem;
+            }
+            &__bottom {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+        .chef-card {
+            margin: 0 0px 30px 0;
+        }
+    }
+}

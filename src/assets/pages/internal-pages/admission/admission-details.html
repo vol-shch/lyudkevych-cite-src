@@ -1,0 +1,27 @@
+---
+layout: default
+title: Вступнику
+---
+
+{{> _header}}
+
+<main class="page">
+    <section class="single-page">
+        <div class="single-page__container">
+            <!-- Динамічний заголовок сторінки -->
+            <h2 class="title" id="admission-page-title">Завантаження ...</h2>
+            <!-- Контейнер для списку документів з JSON -->
+            <div class="single-page__body">
+                <div id="admission-list" class="single-page__grid">
+                    <p>Будь ласка, зачекайте, документи завантажуються...</p>
+                </div>
+            </div>
+            <div class="single-page__body single-page__body_past" id="past-results-block" style="display: none">
+                <h3 class="single-page-past__title title">Відеоінструкція</h3>
+                <div class="single-page__grid" id="past-docs-list"></div>
+            </div>
+        </div>
+    </section>
+</main>
+
+{{> _footer}}

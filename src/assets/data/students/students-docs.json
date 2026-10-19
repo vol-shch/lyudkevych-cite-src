@@ -1,0 +1,60 @@
+{
+    "schedule_classes": [
+        {
+            "title": "Розклад занять на I семестр 2026/2027 н.р.",
+            "url": "/assets/documents/students/lessons-schedule/schedule_classes_sem1.pdf"
+        }
+    ],
+    "schedule_classes_archive": [
+        {
+            "title": "Розклад занять на II семестр 2025/2026 н.р.",
+            "url": "/assets/documents/students/lessons-schedule/archive/schedule_classes_2025_2.pdf"
+        },
+        {
+            "title": "Розклад занять на I семестр 2025/2026 н.р.",
+            "url": "/assets/documents/students/lessons-schedule/archive/schedule_classes_2025_1.pdf"
+        }
+    ],
+    "schedule_exams": [
+        {
+            "title": "Розклад екзаменаційної сесії (Літо 2026)",
+            "url": "/assets/documents/students/exam-schedule/exams_summer_2026.pdf"
+        }
+    ],
+    "academic_rating": [
+        {
+            "title": "Рейтинг студентів за результатами зимової сесії",
+            "url": "/assets/documents/students/rating/rating_winter_2026.pdf"
+        },
+        {
+            "title": "Рейтинг студентів за результатами літньої сесії",
+            "url": "/assets/documents/students/rating/rating_winter_2026.pdf"
+        }
+    ],
+    "academic_rating_archive": [
+        {
+            "title": "Рейтинг студентів за результатами зимової сесії 2025",
+            "url": "/assets/documents/students/rating/rating_winter_2026.pdf"
+        },
+        {
+            "title": "Рейтинг студентів за результатами літньої сесії 2025",
+            "url": "/assets/documents/students/rating/rating_winter_2026.pdf"
+        }
+    ],
+    "student_government": [
+        {
+            "title": "Склад студентської ради",
+            "url": "/assets/documents/students/student-government/student_council_rules.pdf"
+        },
+        {
+            "title": "Положення про студентську раду",
+            "url": "/assets/documents/students/student-government/student_council_rules.pdf"
+        }
+    ],
+    "student_rules": [
+        {
+            "title": "Правила внутрішнього розпорядку для студентів",
+            "url": "/assets/documents/students/students-rules/Правила поведінки здобувачів освіти.pdf"
+        }
+    ]
+}

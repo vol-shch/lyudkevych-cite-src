@@ -1,0 +1,23 @@
+---
+layout: default
+title: Студенту
+---
+
+{{> _header}}
+<main class="page">
+    <section class="single-page">
+        <div class="single-page__container">
+            <h2 class="title" id="students-page-title">Завантаження ...</h2>
+            <div class="single-page__body">
+                <div id="students-list" class="single-page__grid">
+                    <p>Будь ласка, зачекайте, документи завантажуються...</p>
+                </div>
+            </div>
+            <div class="single-page__body single-page__body-archive" id="archive-container" style="display: none">
+                <h3 class="archive-title" id="archive-section-title">Архів документів</h3>
+                <div id="archive-list" class="single-page__grid"></div>
+            </div>
+        </div>
+    </section>
+</main>
+{{> _footer}}
