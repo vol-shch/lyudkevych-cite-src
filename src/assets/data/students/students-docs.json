@@ -1,0 +1,136 @@
+{
+    "schedule_classes": {
+        "sections": [
+            {
+                "section_title": "2026|2027",
+                "items": [
+                    {
+                        "title": "Розклад занять на I семестр 2026\/2027 н.р.",
+                        "url": "\/assets\/documents\/students\/lessons-schedule\/Розклад I семестр 2026-2027.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    "schedule_exams": {
+        "sections": [
+            {
+                "section_title": "2026|2027",
+                "items": [
+                    {
+                        "title": "Розклад екзаменаційної сесії (Літо 2026)",
+                        "url": "\/assets\/documents\/students\/exam-schedule\/exams_summer_2026.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    "academic_rating": {
+        "sections": [
+            {
+                "section_title": "2026|2027",
+                "items": [
+                    {
+                        "title": "Рейтинг студентів за результатами літньої сесії",
+                        "url": "\/assets\/documents\/students\/rating\/рейтинг II семестр.pdf"
+                    },
+                    {
+                        "title": "Рейтинг успішності студентів I курсу за результатами вступних іспитів 2026 р.",
+                        "url": "\/assets\/documents\/students\/rating\/рейтинг 1 курс.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    "schedule_year": {
+        "sections": [
+            {
+                "section_title": "2026|2027",
+                "items": [
+                    {
+                        "title": "Навчальний графік 2026-2027 н.р.",
+                        "url": "\/assets\/documents\/students\/schedule-year\/Навчальний графік 2026-2027 н.р.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    "student_government": {
+        "sections": [
+            {
+                "section_title": "Склад студентської ради",
+                "items": [
+                    {
+                        "title": "Склад студентської ради",
+                        "url": "\/assets\/documents\/students\/student-government\/склад студ ради.pdf"
+                    }
+                ]
+            },
+            {
+                "section_title": "Положення",
+                "items": [
+                    {
+                        "title": "Положення про студентське самоврядування",
+                        "url": "\/assets\/documents\/students\/student-government\/Положення про студентське самоврядування.pdf"
+                    },
+                    {
+                        "title": "Положення про порядок та умови здійснення вибору освітніх компонентів",
+                        "url": "\/assets\/documents\/students\/student-government\/Положення про порядок та умови здійснення вибору освітніх компонентів.pdf"
+                    }
+                ]
+            },
+            {
+                "section_title": "Протоколи",
+                "items": [
+                    {
+                        "title": "Протокол №1",
+                        "url": "\/assets\/documents\/students\/student-government\/протокол №1.pdf"
+                    },
+                    {
+                        "title": "протокол №2",
+                        "url": "\/assets\/documents\/students\/student-government\/протокол №2.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    "student_rules": {
+        "sections": [
+            {
+                "section_title": "2026|2027",
+                "items": [
+                    {
+                        "title": "Правила поведінки здобувачів освіти",
+                        "url": "\/assets\/documents\/students\/students-rules\/Правила поведінки здобувачів освіти.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    "practical_education": {
+        "sections": [
+            {
+                "section_title": "2026|2027",
+                "items": [
+                    {
+                        "title": "Відкриті уроки з педагогічної практики Єлизавети Старчак (музична література) та Катерини Рожак (сольфеджіо)",
+                        "url": "\/assets\/documents\/students\/practical-education\/Відкриті уроки з педагогічної практики Єлизавети Старчак (музична література) та Катерини Рожак (сольфеджіо).pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    "choise_lessions": {
+        "sections": [
+            {
+                "section_title": "Вибіркові компоненти на 2026 - 2027рр.",
+                "items": [
+                    {
+                        "title": "Каталог вибіркових освітніх компонентів здобувача фахової передвищої освіти.",
+                        "url": "\/assets\/documents\/students\/choise-lessions\/Каталог вибіркових дисциплін.pdf"
+                    }
+                ]
+            }
+        ]
+    }
+}

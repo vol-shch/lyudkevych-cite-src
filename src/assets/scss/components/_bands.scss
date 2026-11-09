@@ -1,0 +1,91 @@
+@use "variables" as *;
+
+@mixin styles {
+    .bands {
+        padding: 1.875rem 0.9375rem;
+        display: flex;
+        gap: 1.25rem;
+        justify-content: space-between;
+    }
+    .aside-bands {
+        max-height: fit-content;
+    }
+
+    .bands-content {
+        max-width: 62.5rem;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 1.875rem;
+        &__item {
+            display: flex;
+            flex-direction: column;
+            gap: 0.625rem;
+            padding: 1.25rem;
+            border-radius: 0.625rem;
+            background-color: $color-bg-card;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
+        }
+
+        &__img {
+            max-width: 37.5rem;
+            border-radius: 0.625rem;
+            overflow: hidden;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
+            float: left;
+            margin-right: 1.25rem;
+            margin-bottom: 1.25rem;
+            img {
+                width: 100%;
+            }
+        }
+
+        &__text {
+            padding: 0 0.625rem;
+        }
+
+        &__title {
+            margin-bottom: 0.625rem;
+        }
+
+        &__bottom {
+            display: flex;
+            gap: 1.25rem;
+            flex-wrap: wrap;
+            &-img {
+                max-width: 25rem;
+                border-radius: 0.625rem;
+                overflow: hidden;
+                object-fit: cover;
+                max-height: 18.75rem;
+                img {
+                    width: 100%;
+                    object-fit: contain;
+                }
+            }
+        }
+    }
+    @media (max-width: 767.98px) {
+        .bands {
+            flex-direction: column;
+            .bands-content {
+                align-items: center;
+                justify-content: center;
+                &__top {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                }
+                &__bottom {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                }
+                &__img {
+                    margin-right: 0;
+                    float: none;
+                }
+            }
+        }
+    }
+}

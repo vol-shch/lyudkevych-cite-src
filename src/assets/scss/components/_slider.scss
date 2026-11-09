@@ -1,0 +1,92 @@
+@use "variables" as *;
+@mixin styles {
+    .swiper {
+        max-width: 100%;
+        width: 100%;
+        height: 80vh; /* Або будь-яка потрібна вам висота */
+    }
+    .swiper-slide {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 24px;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        padding: 1.25rem 0;
+        position: relative;
+        &::after {
+            content: "";
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            background-color: rgba(0, 0, 0, 0.2);
+            z-index: 1;
+        }
+        &__container {
+            margin: 0;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+            align-items: self-start;
+            padding-top: calc(20px + (150 - 20) * ((100vw - 320px) / (1400 - 320)));
+            position: relative;
+            z-index: 2;
+        }
+        &__title {
+            font-size: 3.25rem;
+            color: $color-text-light;
+            font-family: $font-accent;
+        }
+        &__text {
+            font-size: 1.25rem;
+            color: $color-text-light;
+        }
+        &._bg1 {
+            background-image: url("/assets/img/main/slider/slide_1.jpg");
+        }
+        &._bg2 {
+            background-image: url("/assets/img/main/slider/slide_2.jpg");
+        }
+        &._bg3 {
+            background-image: url("/assets/img/main/slider/slide_3.jpg");
+        }
+    }
+    .swiper-pagination {
+        display: flex;
+        justify-content: center;
+        gap: 0.625rem;
+        padding: 10px 0;
+        &-bullet {
+            width: 0.9375rem;
+            height: 0.9375rem;
+            border: 0.125rem solid #ffff;
+            &-active {
+                background: #ffff;
+            }
+        }
+    }
+    @media (max-width: 829.98px) {
+        .swiper-slide {
+            &__title {
+                font-size: 2.25rem;
+            }
+        }
+        .swiper-pagination {
+            display: none;
+        }
+    }
+    @media (max-width: 412.98px) {
+        .swiper-slide {
+            &__title {
+                font-size: 2rem;
+            }
+            &__text {
+                font-size: 1.125rem;
+            }
+        }
+    }
+}

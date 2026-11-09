@@ -1,0 +1,64 @@
+@use "variables" as *;
+
+@mixin styles {
+    .forms {
+        &__container {
+            padding: 30px 15px;
+        }
+    }
+    .forms-content {
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 30px;
+        &__header {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+        }
+
+        &__desc {
+        }
+    }
+    .form {
+        padding: 10px;
+        border: 1px solid $color-text-dark;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        gap: 20px;
+        background-color: $color-bg-card;
+        &__group {
+            display: flex;
+            gap: 20px;
+            font-size: 26px;
+            &-textarea {
+                flex-direction: column;
+            }
+        }
+        &__label {
+            flex: 0 0 auto;
+        }
+        &__input {
+            background: $color-bg-main;
+            border: 2px solid $color-text-dark;
+            width: 100%;
+            padding: 5px;
+        }
+        &__textarea {
+            background: $color-bg-main;
+            border: 2px solid $color-text-dark;
+            height: 150px;
+            padding: 5px;
+        }
+
+        &__status {
+        }
+    }
+    .btn {
+    }
+}

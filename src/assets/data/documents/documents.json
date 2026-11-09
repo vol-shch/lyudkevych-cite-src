@@ -1,0 +1,260 @@
+[
+    {
+        "id": 1,
+        "title": "Статут навчального закладу",
+        "category": "statuts",
+        "fileUrl": "/assets/documents/documents-box/statuts/Статут.pdf"
+    },
+    {
+        "id": 2,
+        "title": "Про організацію освітнього процесу",
+        "category": "polozhennya",
+        "fileUrl": "/assets/documents/documents-box/polozhennya/Положення про організацію освітнього процесу.pdf"
+    },
+    {
+        "id": 3,
+        "title": "Про призначення та виплату соціальної стипендії студентам",
+        "category": "polozhennya",
+        "fileUrl": "/assets/documents/documents-box/polozhennya/Положення про призначення та виплату соціальної стипендії студентам.pdf"
+    },
+    {
+        "id": 4,
+        "title": "Про стипендіальну комісію",
+        "category": "polozhennya",
+        "fileUrl": "/assets/documents/documents-box/polozhennya/Положення про стипендіальну комісію.pdf"
+    },
+    {
+        "id": 5,
+        "title": "Про екзаменаційну комісію",
+        "category": "polozhennya",
+        "fileUrl": "/assets/documents/documents-box/polozhennya/Положення про екзаменаційну комісію.pdf"
+    },
+    {
+        "id": 6,
+        "title": "Про порядок відрахування, переривання навчання і переведення",
+        "category": "polozhennya",
+        "fileUrl": "/assets/documents/documents-box/polozhennya/Положення про відрахування, переривання навчання і переведення.pdf"
+    },
+    {
+        "id": 7,
+        "title": "Про забезпечення академічної доброчесності",
+        "category": "polozhennya",
+        "fileUrl": "/assets/documents/documents-box/polozhennya/Положення про забезпечення академічної доброчесності.pdf"
+    },
+    {
+        "id": 8,
+        "title": "Про порядок роботи апеляційної комісії",
+        "category": "polozhennya",
+        "fileUrl": "/assets/documents/documents-box/polozhennya/Положення про порядок роботи апеляційної комісії.pdf"
+    },
+    {
+        "id": 9,
+        "title": "Про порядок ведення претензійно-позовної роботи ",
+        "category": "polozhennya",
+        "fileUrl": "/assets/documents/documents-box/polozhennya/Положення про порядок ведення претензійно-позовної роботи.pdf"
+    },
+    {
+        "id": 10,
+        "title": "Про навчальні кабінети та лабораторії",
+        "category": "polozhennya",
+        "fileUrl": "/assets/documents/documents-box/polozhennya/Положення про навчальні кабінети та лабораторії.pdf"
+    },
+    {
+        "id": 11,
+        "title": "Про бібліотеку",
+        "category": "polozhennya",
+        "fileUrl": "/assets/documents/documents-box/polozhennya/Положення про бібліотеку.pdf"
+    },
+    {
+        "id": 12,
+        "title": "Про практичну підготовку",
+        "category": "polozhennya",
+        "fileUrl": "/assets/documents/documents-box/polozhennya/Положення про практичну підготовку.pdf"
+    },
+    {
+        "id": 13,
+        "title": "Положення з питань запобігання і виявлення корупційних порушень",
+        "category": "polozhennya",
+        "fileUrl": "/assets/documents/documents-box/polozhennya/Положення з питань запобігання і виявлення корупційних порушень.pdf"
+    },
+    {
+        "id": 14,
+        "title": "Положення про виборчу комісію з проведення виборів директора",
+        "category": "polozhennya",
+        "fileUrl": "/assets/documents/documents-box/polozhennya/Положення про виборчу комісію з проведення виборів директора.pdf"
+    },
+    {
+        "id": 15,
+        "title": "Положення про запобігання та протидію булінгу (цькуванню)",
+        "category": "polozhennya",
+        "fileUrl": "/assets/documents/documents-box/polozhennya/Положення про запобігання та протидію булінгу (цькуванню).pdf"
+    },
+    {
+        "id": 16,
+        "title": "Положення про організаційний комітет з проведення виборів директора",
+        "category": "polozhennya",
+        "fileUrl": "/assets/documents/documents-box/polozhennya/Положення про організаційний комітет з проведення виборів директора.pdf"
+    },
+    {
+        "id": 17,
+        "title": "Положення про організацію та проведення виборів директора",
+        "category": "polozhennya",
+        "fileUrl": "/assets/documents/documents-box/polozhennya/Положення про організацію та проведення виборів директора.pdf"
+    },
+    {
+        "id": 18,
+        "title": "Положення про порядок обрання представників з числа студентів, що мають право брати участь у виборах директора",
+        "category": "polozhennya",
+        "fileUrl": "/assets/documents/documents-box/polozhennya/Положення про порядок обрання представників з числа студентів, що мають право брати участь у виборах директора.pdf"
+    },
+    {
+        "id": 19,
+        "title": "Положення про порядок обрання представників з числа штатних працівників, для часті у виборах директора",
+        "category": "polozhennya",
+        "fileUrl": "/assets/documents/documents-box/polozhennya/Положення про порядок обрання представників з числа штатних працівників, які не є науковими, науково-педагогічними та педагогічними працівниками, для часті у виборах директора.pdf"
+    },
+    {
+        "id": 20,
+        "title": "Антикорупційна програма",
+        "category": "anti_corruption",
+        "fileUrl": "/assets/documents/documents-box/anti-corruption/Антикорупційна програма.pdf"
+    },
+    {
+        "id": 21,
+        "title": "Наказ на призначення відповідальної особи за реалізацію Антикорупційної прогами Коледжу",
+        "category": "anti_corruption",
+        "fileUrl": "/assets/documents/documents-box/anti-corruption/Наказ на призначення відповідальної особи за реалізацію Антикорупційної прогами Коледжу.pdf"
+    },
+    {
+        "id": 22,
+        "title": "План заходів щодо запобігання корупційним правопорушень",
+        "category": "anti_corruption",
+        "fileUrl": "/assets/documents/documents-box/anti-corruption/План заходів щодо запобігання корупційним правопорушень.pdf"
+    },
+    {
+        "id": 23,
+        "title": "Положення з питань запобігання і виявлення корупційних порушень",
+        "category": "anti_corruption",
+        "fileUrl": "/assets/documents/documents-box/anti-corruption/Положення з питань запобігання і виявлення корупційних порушень.pdf"
+    },
+    {
+        "id": 24,
+        "title": "Порядок видачі дубліката диплому",
+        "category": "diplom",
+        "fileUrl": "/assets/documents/documents-box/diplom/Порядок видачі дубліката диплому.pdf"
+    },
+    {
+        "id": 25,
+        "title": "Освітня програма профільної середньої освіти підготовка фахового молодшого бакалавра на основі БЗСО",
+        "category": "educational_professional_plans",
+        "fileUrl": "/assets/documents/documents-box/educational-professional-plans/Освітня програма на основі БЗСО.pdf"
+    },
+    {
+        "id": 26,
+        "title": "Музичне мистецтво естради.",
+        "category": "educational_professional_plans",
+        "fileUrl": "/assets/documents/documents-box/educational-professional-plans/музичне мистецтво естради.-1.pdf"
+    },
+    {
+        "id": 27,
+        "title": "Народні інструменти.",
+        "category": "educational_professional_plans",
+        "fileUrl": "/assets/documents/documents-box/educational-professional-plans/народні інструменти.pdf.pdf"
+    },
+    {
+        "id": 28,
+        "title": "Оркестрові духові та ударні інструменти.",
+        "category": "educational_professional_plans",
+        "fileUrl": "/assets/documents/documents-box/educational-professional-plans/оркестрові духові та ударні інструменти.pdf.pdf"
+    },
+    {
+        "id": 29,
+        "title": "Оркестрові струнні інструменти.",
+        "category": "educational_professional_plans",
+        "fileUrl": "/assets/documents/documents-box/educational-professional-plans/оркестрові струнні інструменти.pdf.pdf"
+    },
+    {
+        "id": 30,
+        "title": "Спів.",
+        "category": "educational_professional_plans",
+        "fileUrl": "/assets/documents/documents-box/educational-professional-plans/спів.pdf.pdf"
+    },
+    {
+        "id": 31,
+        "title": "Теорія музики.",
+        "category": "educational_professional_plans",
+        "fileUrl": "/assets/documents/documents-box/educational-professional-plans/теорія музики.pdf.pdf"
+    },
+    {
+        "id": 32,
+        "title": "Фортепіано.",
+        "category": "educational_professional_plans",
+        "fileUrl": "/assets/documents/documents-box/educational-professional-plans/фортепіано.pdf.pdf"
+    },
+    {
+        "id": 33,
+        "title": "Хорове диригування.",
+        "category": "educational_professional_plans",
+        "fileUrl": "/assets/documents/documents-box/educational-professional-plans/хорове диригування.pdf.pdf"
+    },
+    {
+        "id": 34,
+        "title": "Правила внутрішнього трудового розпорядку.",
+        "category": "inside_rules",
+        "fileUrl": "/assets/documents/documents-box/inside-rules/Правила внутрішнього трудового розпорядку.pdf"
+    },
+    {
+        "id": 35,
+        "title": "Сертифікати про акредитацію ОПП-025.",
+        "category": "license",
+        "fileUrl": "/assets/documents/documents-box/license/Сертифікати про акредитацію ОПП-025.pdf"
+    },
+    {
+        "id": 36,
+        "title": "Сертифікати про акредитацію ОПП-B5.",
+        "category": "license",
+        "fileUrl": "/assets/documents/documents-box/license/Сертифікати про акредитацію ОПП-B5.pdf"
+    },
+    {
+        "id": 37,
+        "title": "Наказ на призначення відповідальної особи за реалізацію Антикорупційної програми Коледжу.",
+        "category": "orders",
+        "fileUrl": "/assets/documents/documents-box/orders/Наказ на призначення відповідальної особи за реалізацію Антикорупційної прогами Коледжу.pdf"
+    },
+    {
+        "id": 38,
+        "title": "Наказ про організацію атестації педагогічних працівників.",
+        "category": "orders",
+        "fileUrl": "/assets/documents/documents-box/orders/Наказ про організацію атестації педагогічних працівників.pdf"
+    },
+    {
+        "id": 39,
+        "title": "Наказ про організацію та проведення виборів директора.",
+        "category": "orders",
+        "fileUrl": "/assets/documents/documents-box/orders/Наказ про організацію та проведення виборів директора.pdf"
+    },
+    {
+        "id": 40,
+        "title": "Наказ та План заходів щодо попередження насильницької моделі поведінки, випадків булінгу.",
+        "category": "orders",
+        "fileUrl": "/assets/documents/documents-box/orders/Наказ та План заходів щодо попередження насильницької моделі поведінки, випадків булінгу.pdf"
+    },
+    {
+        "id": 41,
+        "title": "Навчальний план.",
+        "category": "educational_plans",
+        "fileUrl": "/assets/documents/documents-box/educational-plans/.pdf"
+    },
+    {
+        "id": 42,
+        "title": "Звіт за минулий рік.",
+        "category": "reports",
+        "fileUrl": "/assets/documents/documents-box/reports/.pdf"
+    },
+    {
+        "id": 43,
+        "title": "Матеріально-технічне забезпечення.",
+        "category": "materialne",
+        "fileUrl": "/assets/documents/documents-box/materialne/materialne.pdf"
+    }
+]

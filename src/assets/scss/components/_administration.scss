@@ -1,0 +1,70 @@
+@use "variables" as *;
+
+@mixin styles {
+    .administration {
+        padding: 30px 0;
+        &__container {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+        &__content {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+    }
+    .card-ad {
+        display: flex;
+        gap: 30px;
+        width: 100%;
+        min-height: 25rem;
+        align-items: center;
+        padding: 10px;
+        border-bottom: 2px solid $color-gold;
+
+        &__img {
+            overflow: hidden;
+            border-radius: 10px;
+            width: 18.75rem;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
+            flex: 0 0 auto;
+            img {
+                width: 100%;
+            }
+        }
+
+        &__text {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            max-width: 50rem;
+        }
+
+        &__position {
+            font-size: 28px;
+            font-weight: 500;
+        }
+
+        &__name {
+            font-size: 26px;
+        }
+        &__desc {
+            white-space: pre-wrap;
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+    }
+    @media (max-width: 767.98px) {
+        .card-ad {
+            flex-wrap: wrap;
+        }
+    }
+    @media (max-width: 412.98px) {
+        .card-ad {
+            &__img {
+                flex: 1 0 0;
+            }
+        }
+    }
+}
